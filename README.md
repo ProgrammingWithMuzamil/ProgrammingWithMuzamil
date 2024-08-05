@@ -6,11 +6,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Umar</h1>
+<h1 align="center">Hi 👋, I'm Muzamil</h1>
 <h3 align="center">A passionate MERN Stack Developer Learning Django</h3>
 <img align ="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CH-Umar-Aslam&label=Profile%20views&color=0e75b6&style=flat" alt="umaraslam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ProgrammingWithMuzamil&label=Profile%20views&color=0e75b6&style=flat" alt="umaraslam" /> </p>
 
 - 🔭 I’m currently working at *TMR Consulting*
 
@@ -18,7 +18,9 @@
 
 - 💬 Ask me about *Web Development*
 
-- 📫 How to reach me *chumaraslam22@gmail.com* <a href="https://www.linkedin.com/in/ch-umar-aslam">LinkedIn</a><br/>
+- 📫 How to reach me *muhmmadmuzamil445@gmail.com* <a href="www.linkedin.com/in/
+muhammed-muzamil-052b75237
+">LinkedIn</a><br/>
 
 -  ⚡ Fun fact: Passionate about innovation and problem solving and curious to dive into the world of Data Science.</br>
 
