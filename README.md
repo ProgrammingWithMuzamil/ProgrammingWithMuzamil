@@ -85,10 +85,11 @@
 <!-- Live Projects section -->
 <h3 align="left">Live Projects:</h3>
 <ul>
+  
+  <li><a href="https://portfolio-eta-weld-42.vercel.app/">Portfolio</a></li>
   <li><a href="https://new-car-project.vercel.app/">Find, book, or rent a car -- quickily and easy!</a></li>
   <li><a href="https://dashboard-red-delta.vercel.app/">Dashboard</a></li>
-  <li><a href="https://ezitech-clone.netlify.app/">Ezitech Clone</a></li>
-  <li><a href="https://password-picker.netlify.app/">Password Picker</a></li>
+  <li><a href="https://makkha.vercel.app/">Embark on Your Spiritual Voyage</a></li>
   <li><a href="https://react18-todo.vercel.app/">Todo App</a></li>
   <li><a href="https://lms-dashboard-next.vercel.app/">LMS Dashboard</a></li>
 </ul>
