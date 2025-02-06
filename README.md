@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Muzamil</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Expert | Exploring Django & Python</h3>
+<h3 align="center">🚀 Full-Stack Developer | Exploring Django & Python</h3>
 
 <!-- Animated GIF of coding -->
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
@@ -42,7 +42,7 @@
 ## **🛠️ Tech Stack**
 💻 **Languages:** JavaScript, TypeScript, Python  
 ⚡ **Frontend:** React.js, Next.js, Tailwind CSS, Material-UI  
-🛠 **Backend:** Node.js, Express.js, Django  
+🛠 **Backend:** Django, DRF  
 🛢 **Databases:** MongoDB, PostgreSQL, MySQL  
 ☁ **Cloud & DevOps:** Docker, AWS (Basics)  
 📂 **Version Control:** Git, GitHub, GitLab  
