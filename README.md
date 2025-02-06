@@ -4,9 +4,9 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Muzamil</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Expert | Learning Django & Python</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Expert | Exploring Django & Python</h3>
 
-<!-- Animated GIF of coding on the right side -->
+<!-- Animated GIF of coding -->
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <!-- Profile views count -->
@@ -17,16 +17,16 @@
 ---
 
 ## **👨‍💻 About Me**
-✅ **Experienced in MERN Stack Development**  
-✅ **Currently Exploring Django & Python**  
-✅ **Passionate about Scalable & Innovative Solutions**  
-✅ **Loves Open Source & Community Contributions**  
+✅ **Expert in Full Stack Web Development**  
+✅ **Building High-Performance Web Apps**  
+✅ **Passionate about Open Source & Community**  
+✅ **Currently mastering Django & Python**  
 
-🔭 I’m currently working at **TMR Consulting**  
-🌱 I’m currently learning **Django & Python**  
-💬 Ask me about **React, Next.js, Tailwind CSS, MongoDB, and APIs**  
-📫 Reach me at **muhmmadmuzamil445@gmail.com**  
-⚡ Fun fact: **I love innovation & problem-solving. Exploring Data Science next!**  
+🎯 **Current Role:** Full-Stack Developer at **TMR Consulting**  
+📚 **Currently Learning:** Django, Python, Cloud Technologies  
+💬 **Ask me about:** MERN Stack, Next.js, Tailwind CSS, MongoDB, APIs  
+📩 **Reach me at:** [muhmmadmuzamil445@gmail.com](mailto:muhmmadmuzamil445@gmail.com)  
+⚡ **Fun Fact:** I love **innovation & problem-solving**. Next stop? **Data Science!** 🚀  
 
 ---
 
@@ -40,6 +40,14 @@
 ---
 
 ## **🛠️ Tech Stack**
+💻 **Languages:** JavaScript, TypeScript, Python  
+⚡ **Frontend:** React.js, Next.js, Tailwind CSS, Material-UI  
+🛠 **Backend:** Node.js, Express.js, Django  
+🛢 **Databases:** MongoDB, PostgreSQL, MySQL  
+☁ **Cloud & DevOps:** Docker, AWS (Basics)  
+📂 **Version Control:** Git, GitHub, GitLab  
+🎨 **Design & Prototyping:** Figma  
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -56,23 +64,14 @@
   <a href="https://nextjs.org" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
 </p>
 
@@ -91,25 +90,25 @@
 
 ---
 
-## **🚀 Live Projects**
+## **🚀 Featured Projects**
 | Project | Description |
 |---------|-------------|
-| [Portfolio](https://portfolio-eta-weld-42.vercel.app/) | My personal portfolio site |
-| [Car Rental](https://new-car-project.vercel.app/) | Find, book, or rent a car easily |
-| [Dashboard](https://dashboard-red-delta.vercel.app/) | A fully featured admin dashboard |
-| [Makkha](https://makkha.vercel.app/) | Spiritual Voyage Web App |
-| [Todo App](https://react18-todo.vercel.app/) | A simple and modern task manager |
-| [LMS Dashboard](https://lms-dashboard-next.vercel.app/) | Learning Management System |
+| [🎨 Portfolio](https://portfolio-eta-weld-42.vercel.app/) | My personal portfolio site |
+| [🚗 Car Rental](https://new-car-project.vercel.app/) | Find, book, or rent a car easily |
+| [📊 Dashboard](https://dashboard-red-delta.vercel.app/) | Fully featured admin dashboard |
+| [🕋 Makkha](https://makkha.vercel.app/) | Spiritual Voyage Web App |
+| [✅ Todo App](https://react18-todo.vercel.app/) | A simple & modern task manager |
+| [📚 LMS Dashboard](https://lms-dashboard-next.vercel.app/) | Learning Management System |
 
 ---
 
-## **🎯 Goals for 2024**
-✅ **Build Scalable & Efficient Web Applications**  
-✅ **Master Django & Python**  
-✅ **Get Hands-on with Cloud & DevOps**  
-✅ **Actively Contribute to Open Source**  
-✅ **Engage in Tech Communities & Hackathons**  
+## **🎯 2024 Goals**
+🔹 **Master Django & Python**  
+🔹 **Deepen knowledge in Cloud & DevOps**  
+🔹 **Contribute actively to Open Source Projects**  
+🔹 **Participate in Tech Conferences & Hackathons**  
+🔹 **Build Scalable & Efficient Web Applications**  
 
 ---
 
-## **🎉 Let's Connect & Build Something Amazing Together!** 🚀🔥
+## **🎉 Let’s Connect & Build Something Amazing Together! 🚀🔥**
