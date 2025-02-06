@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Muzamil</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer | Exploring Django & Python</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Expert | Learning Django & Python</h3>
 
 <!-- Animated GIF of coding on the right side -->
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
@@ -16,16 +16,21 @@
 
 ---
 
-### **👨‍💻 About Me**
-- 🔭 I’m currently working at **TMR Consulting**  
-- 🌱 I’m currently learning **Django & Python**  
-- 💬 Ask me about **MERN Stack, Next.js, and Tailwind CSS**  
-- 📫 Reach me at **muhmmadmuzamil445@gmail.com**  
-- ⚡ Fun fact: **I love innovation & problem-solving. Exploring Data Science next!**  
+## **👨‍💻 About Me**
+✅ **Experienced in MERN Stack Development**  
+✅ **Currently Exploring Django & Python**  
+✅ **Passionate about Scalable & Innovative Solutions**  
+✅ **Loves Open Source & Community Contributions**  
+
+🔭 I’m currently working at **TMR Consulting**  
+🌱 I’m currently learning **Django & Python**  
+💬 Ask me about **React, Next.js, Tailwind CSS, MongoDB, and APIs**  
+📫 Reach me at **muhmmadmuzamil445@gmail.com**  
+⚡ Fun fact: **I love innovation & problem-solving. Exploring Data Science next!**  
 
 ---
 
-### **🌍 Connect with Me**
+## **🌍 Connect with Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammed-muzamil-052b75237" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" height="30" />
@@ -34,7 +39,7 @@
 
 ---
 
-### **🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -69,22 +74,16 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
-### **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammingWithMuzamil&show_icons=true&locale=en&layout=compact" alt="ProgrammingWithMuzamil" />
-</p>
+## **📊 GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProgrammingWithMuzamil&show_icons=true&locale=en" alt="ProgrammingWithMuzamil" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammingWithMuzamil&show_icons=true&locale=en&layout=compact" alt="ProgrammingWithMuzamil" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingWithMuzamil&" alt="ProgrammingWithMuzamil" />
@@ -92,7 +91,7 @@
 
 ---
 
-### **🚀 Live Projects**
+## **🚀 Live Projects**
 | Project | Description |
 |---------|-------------|
 | [Portfolio](https://portfolio-eta-weld-42.vercel.app/) | My personal portfolio site |
@@ -104,13 +103,13 @@
 
 ---
 
-### **🎯 Goals for 2024**
-- ✅ Build **Scalable** Web Applications  
-- ✅ Deepen Django & Python Knowledge  
-- ✅ Learn **Cloud & DevOps**  
-- ✅ Contribute to **Open Source**  
-- ✅ Get More Involved in **Community Projects**  
+## **🎯 Goals for 2024**
+✅ **Build Scalable & Efficient Web Applications**  
+✅ **Master Django & Python**  
+✅ **Get Hands-on with Cloud & DevOps**  
+✅ **Actively Contribute to Open Source**  
+✅ **Engage in Tech Communities & Hackathons**  
 
 ---
 
-**🚀 Let's connect and build awesome projects together!** 🔥
+## **🎉 Let's Connect & Build Something Amazing Together!** 🚀🔥
