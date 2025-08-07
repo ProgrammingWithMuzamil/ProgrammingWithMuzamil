@@ -1,4 +1,4 @@
-<div align="center">            
+<div align="center">             
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,7,2&height=200&section=header&text=Muzamil%20Rajpoot&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20React&descAlignY=60&descSize=18" width="100%"/>
 </div>
 
