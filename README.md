@@ -136,17 +136,21 @@ print(developer.life_philosophy())
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProgrammingWithMuzamil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingWithMuzamil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=10&hide=html,css" alt="Top Languages"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingWithMuzamil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=15&include_all_commits=true&count_private=true)](https://github.com/ProgrammingWithMuzamil)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingWithMuzamil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=10&hide=html,css)](https://github.com/ProgrammingWithMuzamil)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingWithMuzamil&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9&dates=C9D1D9&border_radius=15" alt="GitHub Streak"/>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingWithMuzamil&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9&dates=C9D1D9&border_radius=15)](https://github.com/ProgrammingWithMuzamil)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProgrammingWithMuzamil&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&radius=15" width="98%" alt="Activity Graph"/>
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProgrammingWithMuzamil&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&radius=15)](https://github.com/ProgrammingWithMuzamil)
+
 </div>
 
 ---
@@ -154,7 +158,9 @@ print(developer.life_philosophy())
 ## 🏆 GitHub Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProgrammingWithMuzamil&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" alt="GitHub Trophies"/>
+  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ProgrammingWithMuzamil&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews)](https://github.com/ProgrammingWithMuzamil)
+
 </div>
 
 <div align="center">
